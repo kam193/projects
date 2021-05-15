@@ -1,4 +1,4 @@
-theme: jekyll-text-theme # Gem-based Jekyll Themes
+# theme: jekyll-text-theme # Gem-based Jekyll Themes
 remote_theme: kitian616/jekyll-TeXt-them
 text_skin: orange # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
